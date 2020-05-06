@@ -27,6 +27,15 @@ cd ./pig
 
 Please read contribution guidelines. 
 
+### Screenshot:
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/timo-cmd/pigs/master/assets/frontpig.png" height=" 250px"></img>
+
+</div>
+
+---
+
 ### Contribuors:
 ```
 Assets by Pixel Frog
