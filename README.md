@@ -41,7 +41,7 @@ Please read contribution guidelines.
 
 ### Contribuors:
 ```
-Assets by Pixel Frog
+Assets by Me and Pixel Frog
 Backend and Frontend scripts by Timo-cmd
 ```
 
